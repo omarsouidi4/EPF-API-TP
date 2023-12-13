@@ -1,5 +1,5 @@
 # EPF-API-TP
-
+Voir le readme pour la réponse aux questions
 - **Question 1:** _Which Python library/framework is often used to create fast, simple REST APIs?_
 
   - Django
@@ -81,6 +81,23 @@
   - @app.update("/endpoint")
 
 # Creating an API with FastAPI
+
+# datasourcesAPI
+Question 1:FastAPI.
+
+Question 2: FastAPI is renowned for its increased speed and performance compared with Django and Flask.
+
+Question 3: In the context of REST APIs, an endpoint is a specific URL to which a request can be sent to interact with the API.
+
+Question 4:  GET, POST, PUT, PATCH, DELETE.
+
+Question 5:intermediate software that processes the request before it reaches the main application.
+
+Question 6: json.dumps() and json.loads().
+
+Question 7: create existing resource, or create one if it doesn't exist.
+
+Question 8: @app.post("/endpoint").
 
 ### Introduction
 
